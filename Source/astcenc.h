@@ -167,6 +167,8 @@
 #ifndef ASTCENC_INCLUDED
 #define ASTCENC_INCLUDED
 
+#define ASTCENC_BLUE_VERSION_TOKEN
+
 #if defined(__cplusplus)
 #include <cstddef>
 #include <cstdint>
